@@ -1,0 +1,104 @@
+maar ik heb 't niet gecontroleerd :p
+GOOOOOEEEEEEEEIEMORGEN
+ja http://imgur.com/lxz1xKt
+hij werkt alleen ergens niet lekker; want hij blijft whinen over taalinstellingen :(
+units - ik ga slapen
+Weer thuis! Wat later dan gepland, maar toch. Lang leve lijn N99 trouwens!
+nn :)
+trusten 
+(nice; iemand probeert me een vraagteken-associatie aan te praten)
+als ze slim waren deden ze verificatie van die cookie alsnog via een andere service via https
+Daar was gisteren (vrijdag) een presentatie over van 
+het is... EEN MEISJE 
+waarom???
+Die heeft best een leuk ding bedacht om session-cookies te binden aan https-sessies.
+oh geinig :)
+In a nutshell:
+dat hoofdje
+hmm?
+Je flikkert een proxy voor je applicatieserver.
+Gebruiker verbindt met proxy, niet met applicatieserver.
+vraagteken-associatie Quis
+Proxy relayt de verbinding, maar ziet 't verkeer wel plaintext.
+met wie zou je anders praten op deze tijd dan met meisjes
+oh wacht
+Vervolgens filtert de proxy de session-cookies die de applicatie-server naar de gebruiker stuurt, en vervangt ze door:
+nah meer: wie zou er moeite doen zo'n associatie aan te praten?
+deze bliepjes van EINDBAAS bevallen me wel
+precies: iemand die veel aandacht ervoor krijgt ;)
+een session-cookie dat encrypted is met een hash van een secret van de proxy concat de master session key van de SSL-verbinding.
+En dat stuurt hij dan naar de gebruiker.
+Return-path: Cookie wordt gedecrypt door de proxy en doorgestuurd naar de applicatieserver.
+best vet bedacht :)
+Gebruiker heeft nooit alle benodigde informatie om 't cookie zelf te decrypten, en het cookie is niet bruikbaar buiten de SSL-sessie waar het bij hoort.
+Misschien klinkt dit bekend, hij was hier ook al mee bezig voor z'n bachelor-scriptie.
+hoe lang is de levensduur van z'n SSL-sessie?
+Zolang de verbinding behouden blijft.
+ja, maar iirc kwam hij voor z'n bachelorscriptie niet echt met een overtuigend plan, wel iets vergelijkbaars
+Nou, nu hebben ze dus een prototype.
+Dat voor ons BlackBoard hangt.
+echt?
+Hmmz.
+Ik weet niet precies wat de setup is, voor details zou je Willem moeten aanspreken.
+Maar zoals ik 't begrijp zijn er atm meerdere proxies live voor blackboard.
+I MADE IT
+ik val ook in slaap
+:W
+Wat betreft levensduur: Het overleeft session renegotiation.
+\o/
+Maar dat is dus als je verbinding een minuut wegvalt e.d.
+Ik val om van de slaap en honger
+I'z gonna fix hunger nao
+doet BB dat niet zelf btw?
+Verschillende browsers kunnen al niet hetzelfde cookie gebruiken.
+Nope.
+Geen enkel product dat ik ken doet dat.
+Laat staan blackboard.
+klinkt namelijk als iets wat ze vaker deployen over meerdere app-servers
+2 uur later dan verwacht?
+dus dat ze ook een soortement van load-balancer/proxy hebben
+make that three
+trusten *
+:W
+Yeah, 't is geimplementeerd als een nginx-module.
+'t Gaat om wat de proxy doet, that's the interesting part.
+thanks dat je bij wijze van spreken al aanstalten maakte om te rijden btw
+ik stond op het punt je te bellen maar m'n telefoon was uitgevallen :')
+dus ik zei tegen mrngm: bel aaron ff
+jaaaaaaaaaa moeite
+jongeeee
+In dit geval had ik gelukkig goed gezelschap opgepikt op Utrecht :)
+geef me zijn nummer, dan bel ik hem op mijn laptop
+x')
+"ik sms hem al wel... moeeeeiteeeee"
+jong geef me zijn nummer
+viernulvierzesiewogijaegh
+JONG
+The real wtf is waarom je Aarons nummer nog niet had.
+geef me zijn nummer opnieuw, ik was nog niet klaar om te typen
+"ja ik heb hem al weggeklikt"
+ik stond op het punt je te bellen maar m'n telefoon was uitgevallen :')
+dit wist je
+Oh, je hebt dat niet in een adresboek op je laptop?
+nee: dat helpt ook niet
+ik niet iig ;p
+want het is niet hetzelfde nummerformaat
+naar Budgetphone bellen is vervelend
+Maar, Steve straft onmiddellijk als je niet naar Nixxs feestjes gaat, dus :P
+Ik bedoel niet "binnen je SIP-app", ik bedoel gewoon letterlijk een adresboekje ;)
+ik moet er nog een Asterisk tussen zetten waardoor het én goed gaat met VPN, NAT etcetera, én dezelfde nummers heeft als die in Google staan
+Moet er niet aan denken dat m'n telefoon leidend is voor al die informatie.
+goed aan denken voor de volgende keer ;-)
+En je hebt hamburgers gemist.
+Google is leidend voor die informatie bij mij
+wat heb je nou gedaan
+ik wil graag mijn browser terug
+sst, ik leef graag op de rand
+maar ik kan de tab niet meer sluiten
+ik vind het wel overbodig dat ik mongodb moet hebben :(
+ik heb een groot blok kaas gekocht 
+ik heb alleen de nodejs bindings nodig
+mongodb valt me tegen
+misschien dat ik dingen nog wel ga omschrijven van mongodb naar iets wat weer SQL-gebaseerd is 
+
+

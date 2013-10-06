@@ -3,12 +3,14 @@ var twss = require("twss");
 
 twss.threshold = 0.8
 
+twss.trainingData = {
+  pos: require('./data/positive').data,
+  neg: require('./data/negative').data
+}
+
 var client = dazeus.connect({path: '/tmp/dazeus.sock'}, function () {
   console.log("parting #ru, joining #Thom");
 
-  client.join("hashru","#ru");
-  client.join("hashru","#Thom");
-  
   console.log("registering event");
   client.on('PRIVMSG', function (network, user, channel, message) {
     console.log("got message: " + message);
