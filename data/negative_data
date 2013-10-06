@@ -1,114 +1,115 @@
-maar ik heb 't niet gecontroleerd :p
-GOOOOOEEEEEEEEIEMORGEN
-ja http://imgur.com/lxz1xKt
-hij werkt alleen ergens niet lekker; want hij blijft whinen over taalinstellingen :(
-units - ik ga slapen
-Weer thuis! Wat later dan gepland, maar toch. Lang leve lijn N99 trouwens!
 nn :)
-trusten 
-(nice; iemand probeert me een vraagteken-associatie aan te praten)
-als ze slim waren deden ze verificatie van die cookie alsnog via een andere service via https
-Daar was gisteren (vrijdag) een presentatie over van 
+wat heb je nou gedaan
+:D
+"ja ik heb hem al weggeklikt"
+dat hoofdje
+En dat stuurt hij dan naar de gebruiker.
+ik wil graag mijn browser terug
+\o/
+maar ik heb 't niet gecontroleerd :p
+Nou, nu hebben ze dus een prototype.
+oh geinig :)
+naar Budgetphone bellen is vervelend
+Nope.
+dit wist je
+een session-cookie dat encrypted is met een hash van een secret van de proxy concat de master session key van de SSL-verbinding.
+Misschien klinkt dit bekend, hij was hier ook al mee bezig voor z'n bachelor-scriptie.
+Ik bedoel niet "binnen je SIP-app", ik bedoel gewoon letterlijk een adresboekje ;)
+doet BB dat niet zelf btw?
+geef me zijn nummer opnieuw, ik was nog niet klaar om te typen
+Zolang de verbinding behouden blijft.
+jongeeee
+meh, geen zin om te fietsen zo
+units - ik ga slapen
+In a nutshell:
+nah meer: wie zou er moeite doen zo'n associatie aan te praten?
+:W
+:W
+Ik weet niet precies wat de setup is, voor details zou je Willem moeten aanspreken.
+Maar, Steve straft onmiddellijk als je niet naar Nixxs feestjes gaat, dus :P
+in case of brick en zo
+deze bliepjes van EINDBAAS bevallen me wel
+ja http://imgur.com/lxz1xKt
+trusten *
+ik denk dat hij het zei omdat ik copypastete in #RU
+hoe vond jij uit dat er firmware updates voor je baseband waren?
+ik weet niet of je zomaar de logs van #RU moet publiceren in een repo
+Gebruiker verbindt met proxy, niet met applicatieserver.
+maar ik kan de tab niet meer sluiten
+oh wacht
+Google is leidend voor die informatie bij mij
+make that three
+ik moet er nog een Asterisk tussen zetten waardoor het én goed gaat met VPN, NAT etcetera, én dezelfde nummers heeft als die in Google staan
+Maar zoals ik 't begrijp zijn er atm meerdere proxies live voor blackboard.
+Geen enkel product dat ik ken doet dat.
 het is... EEN MEISJE 
 waarom???
-Die heeft best een leuk ding bedacht om session-cookies te binden aan https-sessies.
-oh geinig :)
-In a nutshell:
-dat hoofdje
-hmm?
-Je flikkert een proxy voor je applicatieserver.
-Gebruiker verbindt met proxy, niet met applicatieserver.
-vraagteken-associatie Quis
-Proxy relayt de verbinding, maar ziet 't verkeer wel plaintext.
-met wie zou je anders praten op deze tijd dan met meisjes
-oh wacht
-Vervolgens filtert de proxy de session-cookies die de applicatie-server naar de gebruiker stuurt, en vervangt ze door:
-nah meer: wie zou er moeite doen zo'n associatie aan te praten?
-deze bliepjes van EINDBAAS bevallen me wel
-precies: iemand die veel aandacht ervoor krijgt ;)
-een session-cookie dat encrypted is met een hash van een secret van de proxy concat de master session key van de SSL-verbinding.
-En dat stuurt hij dan naar de gebruiker.
-Return-path: Cookie wordt gedecrypt door de proxy en doorgestuurd naar de applicatieserver.
-best vet bedacht :)
 Gebruiker heeft nooit alle benodigde informatie om 't cookie zelf te decrypten, en het cookie is niet bruikbaar buiten de SSL-sessie waar het bij hoort.
-Misschien klinkt dit bekend, hij was hier ook al mee bezig voor z'n bachelor-scriptie.
-hoe lang is de levensduur van z'n SSL-sessie?
-Zolang de verbinding behouden blijft.
-ja, maar iirc kwam hij voor z'n bachelorscriptie niet echt met een overtuigend plan, wel iets vergelijkbaars
-Nou, nu hebben ze dus een prototype.
-Dat voor ons BlackBoard hangt.
-echt?
-Hmmz.
-Ik weet niet precies wat de setup is, voor details zou je Willem moeten aanspreken.
-Maar zoals ik 't begrijp zijn er atm meerdere proxies live voor blackboard.
-I MADE IT
-ik val ook in slaap
-:W
-Wat betreft levensduur: Het overleeft session renegotiation.
-\o/
-Maar dat is dus als je verbinding een minuut wegvalt e.d.
 Ik val om van de slaap en honger
-I'z gonna fix hunger nao
-doet BB dat niet zelf btw?
-Verschillende browsers kunnen al niet hetzelfde cookie gebruiken.
-Nope.
-Geen enkel product dat ik ken doet dat.
-Laat staan blackboard.
-klinkt namelijk als iets wat ze vaker deployen over meerdere app-servers
-2 uur later dan verwacht?
-dus dat ze ook een soortement van load-balancer/proxy hebben
-make that three
-trusten *
-:W
-Yeah, 't is geimplementeerd als een nginx-module.
-'t Gaat om wat de proxy doet, that's the interesting part.
-thanks dat je bij wijze van spreken al aanstalten maakte om te rijden btw
-ik stond op het punt je te bellen maar m'n telefoon was uitgevallen :')
-dus ik zei tegen mrngm: bel aaron ff
-jaaaaaaaaaa moeite
-jongeeee
-In dit geval had ik gelukkig goed gezelschap opgepikt op Utrecht :)
 geef me zijn nummer, dan bel ik hem op mijn laptop
-x')
+Laat staan blackboard.
+want het is niet hetzelfde nummerformaat
+Return-path: Cookie wordt gedecrypt door de proxy en doorgestuurd naar de applicatieserver.
+goed aan denken voor de volgende keer ;-)
+best vet bedacht :)
+Vervolgens filtert de proxy de session-cookies die de applicatie-server naar de gebruiker stuurt, en vervangt ze door:
+Yeah, 't is geimplementeerd als een nginx-module.
+thanks dat je bij wijze van spreken al aanstalten maakte om te rijden btw
+ik heb een groot blok kaas gekocht 
+Daar was gisteren (vrijdag) een presentatie over van 
+hoe lang is de levensduur van z'n SSL-sessie?
+hij werkt alleen ergens niet lekker; want hij blijft whinen over taalinstellingen :(
+sst, ik leef graag op de rand
+'t Gaat om wat de proxy doet, that's the interesting part.
+jaaaaaaaaaa moeite
 "ik sms hem al wel... moeeeeiteeeee"
 jong geef me zijn nummer
-viernulvierzesiewogijaegh
-JONG
+x')
+Dat voor ons BlackBoard hangt.
+ja, maar iirc kwam hij voor z'n bachelorscriptie niet echt met een overtuigend plan, wel iets vergelijkbaars
+dus ik zei tegen mrngm: bel aaron ff
+als ze slim waren deden ze verificatie van die cookie alsnog via een andere service via https
+nee ik denk ht niet
+echt?
+Hmmz.
+I MADE IT
+Verschillende browsers kunnen al niet hetzelfde cookie gebruiken.
+Maar dat is dus als je verbinding een minuut wegvalt e.d.
+klinkt namelijk als iets wat ze vaker deployen over meerdere app-servers
+je moeder is schattig
+(nice; iemand probeert me een vraagteken-associatie aan te praten)
+hmm?
 The real wtf is waarom je Aarons nummer nog niet had.
-geef me zijn nummer opnieuw, ik was nog niet klaar om te typen
-"ja ik heb hem al weggeklikt"
-ik stond op het punt je te bellen maar m'n telefoon was uitgevallen :')
-dit wist je
-Oh, je hebt dat niet in een adresboek op je laptop?
-nee: dat helpt ook niet
-ik niet iig ;p
-want het is niet hetzelfde nummerformaat
-naar Budgetphone bellen is vervelend
-Maar, Steve straft onmiddellijk als je niet naar Nixxs feestjes gaat, dus :P
-Ik bedoel niet "binnen je SIP-app", ik bedoel gewoon letterlijk een adresboekje ;)
-ik moet er nog een Asterisk tussen zetten waardoor het én goed gaat met VPN, NAT etcetera, én dezelfde nummers heeft als die in Google staan
-Moet er niet aan denken dat m'n telefoon leidend is voor al die informatie.
-goed aan denken voor de volgende keer ;-)
+Je flikkert een proxy voor je applicatieserver.
+I'z gonna fix hunger nao
+nee ik denk het niet
+Wat betreft levensduur: Het overleeft session renegotiation.
+In dit geval had ik gelukkig goed gezelschap opgepikt op Utrecht :)
+2 uur later dan verwacht?
+precies: iemand die veel aandacht ervoor krijgt ;)
 En je hebt hamburgers gemist.
-Google is leidend voor die informatie bij mij
-wat heb je nou gedaan
-ik wil graag mijn browser terug
-sst, ik leef graag op de rand
-maar ik kan de tab niet meer sluiten
-ik vind het wel overbodig dat ik mongodb moet hebben :(
-ik heb een groot blok kaas gekocht 
-ik heb alleen de nodejs bindings nodig
-mongodb valt me tegen
-misschien dat ik dingen nog wel ga omschrijven van mongodb naar iets wat weer SQL-gebaseerd is 
 die laatste was best goed
-meh, geen zin om te fietsen zo
+ik niet iig ;p
+JONG
 ik heb hier twee 50ct-muntjes en de ribbels aan de zijkant zijn anders
+GOOOOOEEEEEEEEIEMORGEN
 fietsband
 mongodb valt me tegen
-je moeder is schattig
-:D
-ik denk dat hij het zei omdat ik copypastete in #RU
-nee ik denk ht niet
-nee ik denk het niet
-hoe vond jij uit dat er firmware updates voor je baseband waren?
-in case of brick en zo
+mongodb valt me tegen
+ik stond op het punt je te bellen maar m'n telefoon was uitgevallen :')
+ik stond op het punt je te bellen maar m'n telefoon was uitgevallen :')
+nee: dat helpt ook niet
+ik vind het wel overbodig dat ik mongodb moet hebben :(
+dus dat ze ook een soortement van load-balancer/proxy hebben
+Oh, je hebt dat niet in een adresboek op je laptop?
+ik val ook in slaap
+Die heeft best een leuk ding bedacht om session-cookies te binden aan https-sessies.
+Proxy relayt de verbinding, maar ziet 't verkeer wel plaintext.
+ik heb alleen de nodejs bindings nodig
+met wie zou je anders praten op deze tijd dan met meisjes
+Moet er niet aan denken dat m'n telefoon leidend is voor al die informatie.
+misschien dat ik dingen nog wel ga omschrijven van mongodb naar iets wat weer SQL-gebaseerd is 
+Weer thuis! Wat later dan gepland, maar toch. Lang leve lijn N99 trouwens!
+viernulvierzesiewogijaegh
+vraagteken-associatie Quis
+trusten 
