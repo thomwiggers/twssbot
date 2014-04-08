@@ -24,6 +24,7 @@ var client = dazeus.connect({path: '/tmp/dazeus.sock'}, function () {
       var arg = _.reduce(arguments, function(mem, str) { return mem + str });
       console.log("writing " + arg + " to negfile");
       fs.appendFile("data/negative_data", arg + "\n" );
+      twss.trainingData["neg"].push(arg);
       
       client.reply(network, channel, user, "Ok, I will keep this in mind");
       checktwss = false;
@@ -34,6 +35,7 @@ var client = dazeus.connect({path: '/tmp/dazeus.sock'}, function () {
 
       console.log("writing " + arg + " to positive data");
       fs.appendFile("data/positive_data", arg + "\n");
+      twss.trainingData["pos"].push(arg);
 
       client.reply(network, channel, user, "Ok, I will keep this in mind");
       checktwss = false;
